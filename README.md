@@ -1,0 +1,1 @@
+# beg-auto-desktop-releases
